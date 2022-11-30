@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
     name='yamlfmt',
     description='A pre-commit hook to format YAML files',
-    url='https://github.com/jumanjihouse/pre-commit-hook-yamlfmt',
+    url='https://github.com/Jovanio-Junior/teste1',
     version='0.0.0',
 
     install_requires=[
